@@ -14,14 +14,17 @@ The goal was to create a compact, deployable face recognition system that runs f
 
 ## 🖼️ Demo
 
-![Enrollment Mode](images/enroll_mode.jpg)  
+![Enrollment Mode] 
 *Enrollment mode showing joystick interaction and image capture*
+<img src="https://github.com/user-attachments/assets/bc4429a8-a1b4-4839-89f3-c89ce4e3dfdf" width="500"/>
+https://github.com/user-attachments/assets/bc4429a8-a1b4-4839-89f3-c89ce4e3dfdf
 
 ![Recognition Mode]
+*Recognition mode highlighting known vs. unknown faces using overlays and LED colors*
 <img src="https://github.com/user-attachments/assets/d9686174-2137-489e-a9f9-bfaea50a75b9" alt="VideoCapture_20250430-210134" width="500"/>
 
 
-*Recognition mode highlighting known vs. unknown faces using overlays and LED colors*
+
 
 ## 🛠️ Tech Stack
 
